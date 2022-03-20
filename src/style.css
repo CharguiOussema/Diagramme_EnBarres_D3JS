@@ -1,0 +1,16 @@
+html, body {
+margin: 0;
+height: 100%
+}
+.barre { 
+  fill: pink; }
+.barre:hover { 
+  fill: LightSkyBlue; }
+.text{
+ fill: Blue ;
+font-weight: bold;}
+h1{
+  text-align: center;
+}
+
+
